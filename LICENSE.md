@@ -1,4 +1,4 @@
-# 
+# Ultimato Blender predefinições para Mac OS | Automático Blender predefinições para PC Windows. Com motor de pincéis e motor de renderização — otimizado para máximo desempenho em cada plataforma.
 
 
 
